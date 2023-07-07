@@ -1,8 +1,8 @@
 ---
 title: About
-contact_email: user@example.com
+contact_email: monotomidae@gmail.com
 copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
-citation: Project collaborative. 2022. Website title. Available at https://example.com. 
+citation: Cucujoidea World Catalog Curators. 2023. Cucujoidea World Catalog (CWC) curated in TaxonWorks [software]. Available at https://sfg.taxonworks.org/api/v1/.
 ---
 
 # {{frontmatter.title}}
@@ -11,16 +11,33 @@ citation: Project collaborative. 2022. Website title. Available at https://examp
 Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
 
 ## Contact
-If you have a question, want to report new data relevant to the project, or have error our preferred means of contact is to file an issue on our [project tracker](https://github.com/our/project/tracker). You can also [chat live with us](https://slackservername). We can also be reached via [email](mailto:{{frontmatter.contact_email}}).   
+If you have a question, want to report new data relevant to the project, or have error our preferred means of contact is to file an issue on our [project tracker](https://github.com/tmcelrath/cucujoideaworldcatalog/issues). We can also be reached via [email](mailto:{{frontmatter.contact_email}}).   
 
 ## Team
  _Please contact us if you would like to join this effort._
 
 Made possible by the wonderful:
-* Gandalf - Technical lead
-* Aragorn - Outside advisor 
-* Frodo - Lead curator
-* Samwise - Emotional support
+* Tommy McElrath - Project lead and contributor
+* Matt Gimmel - Project lead and contributor
+* Gareth Powell - Project lead and contributor
+
+Contributors (listed alphabetically):
+* Paulo Audisio - Contributor
+* Daniel Burckhardt - Contributor
+* Yangdong Chen  - Contributor
+* Andrew Cline - Contributor
+* Jens Esser - Contributor
+* Zhengzhong Huang - Contributor
+* Chi-Feng Lee - Contributor
+* Rich Leschen - Contributor
+* Ítalo Pecci-Maddalena - Contributor
+* John Marris - Contributor
+* Paul Skelley - Contributor
+* Trevor Smith - Contributor
+* Michael C. Thomas - Contributor (deceased)
+* Wioletta Tomaszewska - Contributor
+* Takahiro Yoshida - Contributor
+  
 
 ## Citing
 * This website - {{frontmatter.citation}}
