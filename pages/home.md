@@ -1,7 +1,7 @@
 ---
-title: The title
-lead: Taxa from your imagination to the web
-project: Your project
+title: The Cucujoidea World Catalog
+lead: Creating the first online line catalogue of taxa of the superfamilies Cucujoidea, Erotyloidea, and Nitiduloidea. 
+project: The Cucujoidea World Catalog
 ---
    
 # {{frontmatter.title}}
@@ -14,8 +14,7 @@ Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from 
 <autocomplete-otu class="w-80"/>
 
 ## Announcements
-* 5/1/2022 - We've grown!  
-* 1/1/2022 - Our website is live!
+* 7/7/2023 - Our website is live!
 
 ## Find out more
 Learn how to collaborate with the {{ frontmatter.title }} project. Contact information, technical details, and more are available at [About](/about).
