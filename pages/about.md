@@ -2,7 +2,7 @@
 title: About
 contact_email: monotomidae@gmail.com
 copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
-citation: Cucujoidea World Catalog Curators. 2023. Cucujoidea World Catalog (CWC) curated in TaxonWorks [software]. Available at [https://tmcelrath.github.io/cucujoideaworldcatalog](https://tmcelrath.github.io/cucujoideaworldcatalog).
+citation: Cucujoidea World Catalog Curators. 2023. Cucujoidea World Catalog (CWC) curated in TaxonWorks [software]. Available at https://tmcelrath.github.io/cucujoideaworldcatalog.
 ---
 
 # {{frontmatter.title}}
