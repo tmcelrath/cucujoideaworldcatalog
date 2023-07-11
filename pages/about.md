@@ -30,8 +30,9 @@ Contributors (listed alphabetically):
 * Zhengzhong Huang - Contributor
 * Chi-Feng Lee - Contributor
 * Rich Leschen - Contributor
-* Ítalo Pecci-Maddalena - Contributor
+* Joseph McHugh - Contributor
 * John Marris - Contributor
+* Ítalo Pecci-Maddalena - Contributor
 * Paul Skelley - Contributor
 * Trevor Smith - Contributor
 * Michael C. Thomas - Contributor (deceased)
