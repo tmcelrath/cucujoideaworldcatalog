@@ -17,27 +17,27 @@ If you have a question, want to report new data relevant to the project, or have
  _Please contact us if you would like to join this effort._
 
 Made possible by the wonderful:
-* Tommy McElrath - Project lead and contributor
-* Matt Gimmel - Project lead and contributor
-* Gareth Powell - Project lead and contributor
+* Tommy McElrath - Project lead and contributor (Monotomidae, Cucujidae, Laemophloeidae, Passandridae, Silvanidae, Erotylidae, misc. smaller families)
+* Matt Gimmel - Project lead and contributor (Phalacridae, Erotylidae, Cryptophagidae)
+* Gareth Powell - Project lead and contributor (Nitidulidae, Smicripidae, Kateretidae)
 
 Contributors (listed alphabetically):
-* Paulo Audisio - Contributor
-* Daniel Burckhardt - Contributor
+* Paulo Audisio - Contributor (Nitidulidae, Kateretidae)
+* Daniel Burckhardt - Contributor (Passandridae)
 * Yangdong Chen  - Contributor
-* Andrew Cline - Contributor
-* Jens Esser - Contributor
+* Andrew Cline - Contributor (Nitidulidae)
+* Jens Esser - Contributor (Nitidulidae)
 * Zhengzhong Huang - Contributor
-* Chi-Feng Lee - Contributor
-* Rich Leschen - Contributor
-* Joseph McHugh - Contributor
-* John Marris - Contributor
-* Ítalo Pecci-Maddalena - Contributor
-* Paul Skelley - Contributor
-* Trevor Smith - Contributor
-* Michael C. Thomas - Contributor (deceased)
+* Chi-Feng Lee - Contributor (Helotidae)
+* Rich Leschen - Contributor (Erotylidae, Cryptophagidae)
+* Joseph McHugh - Contributor (Sphindidae, Erotylidae)
+* John Marris - Contributor (Cucujidae)
+* Ítalo Pecci-Maddalena - Contributor (Erotylidae)
+* Paul Skelley - Contributor (Erotylidae)
+* Trevor Smith - Contributor (Cybocephalidae)
+* Michael C. Thomas - Contributor (deceased)(Silvanidae, Cucujidae, Laemophloeidae)
 * Wioletta Tomaszewska - Contributor
-* Takahiro Yoshida - Contributor
+* Takahiro Yoshida - Contributor (Silvanidae, Laemophloeidae)
   
 
 ## Citing
